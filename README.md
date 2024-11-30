@@ -66,7 +66,7 @@ Given an integer array nums sorted in non-decreasing order, return an array of t
 **Pseudocode:** See [Pseudocode Document](./pseudocode/pseudocodes.md)
 
 ### Check link below to view the flowcharts document
-**Flowchart:** See [View Flowcharts Document](./Flowcharts.pdf)
+**Flowchart:** See [View Flowcharts Document](./flowcharts.pdf)
 
 **Language used:** Java
 
