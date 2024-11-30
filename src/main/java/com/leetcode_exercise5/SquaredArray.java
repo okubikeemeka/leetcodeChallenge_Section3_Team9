@@ -1,4 +1,4 @@
-package leetcode_exercise5;
+package com.leetcode_exercise5;
 
 import java.util.Arrays;
 

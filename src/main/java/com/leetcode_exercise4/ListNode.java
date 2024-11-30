@@ -1,4 +1,4 @@
-package leetcode_exercise4;
+package com.leetcode_exercise4;
 
 import java.util.ArrayList;
 import java.util.List;
